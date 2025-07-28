@@ -13,3 +13,11 @@ This is a simple and fun **Counter App** I built using **HTML, CSS, and JavaScri
 
  HTML – to structure the page  
  CSS – to style it nicely  
+ Javascript - to make the counter work
+
+ 🚀 Try It Yourself
+
+If you'd like to try it out:
+
+1. Clone the repo:
+   git clone https://github.com/your-username/counter-app.git
